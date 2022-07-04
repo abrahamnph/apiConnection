@@ -54,6 +54,13 @@
 		
 	</build>
 
+		<distributionManagement>
+			<repository>
+				<id>myrepository</id>
+				<url>https://github.com/abrahamnph/apiConnection</url>
+			</repository>
+		</distributionManagement>
+
 
 
 </project>
